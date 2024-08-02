@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" href="all.min.css"/>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="player-body"> 
+    <div class="background-image"></div>
+    <div class="player-container">
+        <!-- Song -->
+        <div class="img-info-progress-wrap"> 
+        <div class="img-container">
+            <img  alt="Album Art">
+        </div>
+        <div class="artist-info"> 
+        <div> 
+        <h2 id="title"></h2>
+        </div>
+
+        <div> 
+        <h3 id="artist"></h3>
+        </div>
+        </div>
+         
+
+        <!--Audio element-->
+        <audio ></audio>
+
+        <!-- Progress -->
+        <div class="progress-container" id="progress-container">
+            <div class="progress" id="progress"></div>
+         
+            <div class="duration-wrapper">
+                <span id="current-time">0:00</span>
+                <span id="duration">2:06</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="song-list-container">
+        <div class="inner-container"> 
+            <div class="playing-info-container">
+                <div class="now-playing-container"> 
+                <div class="container-a"></div>
+                <div class="container-b">
+                    <div class="single-line-text-container"> 
+                    <span class="single-line-text">
+                    </span>
+                    </div>
+
+                    <div class="single-line-text1-container">
+                    <span class="single-line-text1">
+                    </span>
+                    </div>
+                </div>
+                <div class="container-c"><i>...</i></div>
+
+            </div>
+                <div class="info-shuffle-repeat">
+                    <span>Playing Next </span>
+                    <i class="shuffle"></i>
+                    <i class="repeat"></i>
+                </div>
+            </div>
+
+            <div class="song-list-wrapper">
+               
+            </div>
+        <div class="albums"></div>
+    </div>
+    </div>
+    
+        <!-- Controls -->
+        <div class="player-controls">
+            <i class="fas fa-backward" id="prev" title="Previous"></i>
+            <i class="fas fa-play main-button" id="play" title="Play"></i>
+            <i class="fas fa-forward" id="next" title="Next"></i>
+        </div>
+        <!--Volume controls-->
+        <div class="volume-container">
+            <i class="fas fa-volume-down"></i>
+            <div class="volume-range">
+                <div class="v-progress-bar"> </div>
+            </div>
+            <i class="fas fa-volume-up"></i>
+        </div>
+        <!--song list-->
+        <div class="play-options">
+            <i class="fas  fa-text-height"></i>
+            <i class="fas  fa-podcast"></i>
+            <div class="list-icon-container">
+                <i class="fas  fa-th-list" id="list-icon"></i>
+            </div>
+            
+        </div>
+    </div>
+</div>
+    <!-- Script -->
+    <script src="script.js">
+    </script>
+</body>
+</html>

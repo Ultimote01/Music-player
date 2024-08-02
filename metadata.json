@@ -1,0 +1,80 @@
+[
+    {
+        "path": "music/jacinto-3.mp3",
+        "title": "Goodnight, Disco Queen",
+        "artist": "Darkest Void",
+        "album": "Electronica Machine",
+        "year": "2011",
+        "artwork": "img/jacinto-3.jpg"
+    },
+    {
+        "path": "music/DUBEE-MIX.mp3",
+        "title": "DJ MECK - BEST OF LUCKY DUBE 08133971023",
+        "artist": "DJ MECK",
+        "album": "LUCKY DUBE LIVES ON MIXTAPE",
+        "artwork": "img/DUBEE-MIX.jpg"
+    },
+    {
+        "path": "music/DJ_Consequence_Ft_Olamide_Assignment_9jaflaver.com_-2.mp3",
+        "title": "DJ Consequence Ft Olamide - Assignment Via: 9jaflaver.com",
+        "artist": "DJ Consequence Ft Olamide",
+        "album": "9jaflaver.com",
+        "year": "2017",
+        "artwork": "img/DJ_Consequence_Ft_Olamide_Assignment_9jaflaver.jpg"
+    },
+    {
+        "path": "music/DJ YomC \u2013 South Africa Gwara Gwara Mix_Mixtapes.ng.mp3",
+        "title": "#Mixtapes.ng - DJ YomC \u2013 South Africa Gwara Gwara Mix",
+        "artist": "Follow Mixtapes.ng CEO on IG @EMILLIONIA",
+        "album": "[whatsapp-0816 1760 000 ]",
+        "year": "2018",
+        "artwork":""
+    },
+    {
+        "path": "music/DJ YomC \u2013 Foreign Rap Verses Mix_WWW.MIXTAPES.NG.mp3",
+        "title": "#MIXTAPES.NG - DJ YomC \u2013 Foreign Rap Verses Mix",
+        "artist": " (WWW.MIXTAPES.NG)",
+        "album": " (WWW.MIXTAPES.NG)",
+        "year": "2018",
+        "artwork": "img/DJ YomC \u2013 Foreign Rap Verses Mix_WWW.MIXTAPES.NG.png"
+    },
+    {
+        "path": "music/DJ Davisy-Best Of 2Baba_WWW.MIXTAPES.NG.mp3",
+        "title": "DJ Davisy \u2013 Best Of 2Baba -WWW.MIXTAPES.NG",
+        "artist": " (WWW.MIXTAPES.NG & WWW.DJMIXTAPES.NG)DJ Davisy \u2013 Best Of 2Baba",
+        "album": " (WWW.MIXTAPES.NG & WWW.DJMIXTAPES.NG)DJ Davisy \u2013 Best Of 2Baba",
+        "year": "2018",
+        "artwork": "img/DJ Davisy-Best Of 2Baba_WWW.MIXTAPES.NG.png"
+    },
+    {
+        "path": "music/Dj_Da Boie.mp3",
+        "title": "Non Stop Party Mix | Naijaloaded",
+        "artist": "DJ Da Boie",
+        "album": "Twitter:- @NL_Official",
+        "artwork": "img/Dj_Da Boie.jpg"
+    },
+    {
+        "path": "music/jacinto-2.mp3",
+        "title": "Seven Nation Army",
+        "year": "2012",
+        "artwork": "img/jacinto-2.jpg"
+    },
+    {
+        "path": "music/jacinto-1.mp3",
+        "title": "Reggae Fusion",
+        "year": "2011",
+        "artwork": "img/jacinto-1.jpg"
+    },
+    {
+        "path": "music/metric-1.mp3",
+        "title": "Front Row",
+        "year": "2013",
+        "artwork": "img/metric-1.jpg"
+    },
+    {
+        "title": "LIFE OF A STREET DJ VOL2 _ DJ 4KERTY ",
+        "artist": "",
+        "path": "music/DJ 4kerty - Life Of A Street DJ Mix.mp3",
+        "artwork": ""
+    }
+]
